@@ -1,0 +1,86 @@
+[
+  {
+      "id": 1,
+      "title": "The Last of Us Part II",
+      "description": "Un juego de acción y aventura que sigue la historia de Ellie en un mundo post-apocalíptico.",
+      "code": "GAME001",
+      "price": 60,
+      "stock": 20,
+      "category": "Acción",
+      "status": true,
+      "thumbnails": [
+          "https://pics.filmaffinity.com/the_last_of_us_part_ii-976142612-large.jpg",
+          "https://pics.filmaffinity.com/the_last_of_us_part_ii-976142612-large.jpg"
+      ]
+  },
+  {
+      "id": 2,
+      "title": "Doom Eternal",
+      "description": "Una entrega frenética y brutal de la saga Doom, con intensas batallas contra demonios.",
+      "code": "GAME002",
+      "price": 55,
+      "stock": 25,
+      "category": "Acción",
+      "status": true,
+      "thumbnails": [
+          "doom_eternal_1.jpg",
+          "doom_eternal_2.jpg"
+      ]
+  },
+  {
+      "id": 3,
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "description": "Una épica aventura en un vasto mundo abierto, con acertijos, exploración y combates.",
+      "code": "GAME003",
+      "price": 65,
+      "stock": 15,
+      "category": "Aventura",
+      "status": true,
+      "thumbnails": [
+          "zelda_breath_of_the_wild_1.jpg",
+          "zelda_breath_of_the_wild_2.jpg"
+      ]
+  },
+  {
+      "id": 4,
+      "title": "Red Dead Redemption 2",
+      "description": "Una historia de vaqueros en un mundo abierto con misiones emocionantes y una narrativa profunda.",
+      "code": "GAME004",
+      "price": 70,
+      "stock": 18,
+      "category": "Aventura",
+      "status": true,
+      "thumbnails": [
+          "red_dead_redemption_2_1.jpg",
+          "red_dead_redemption_2_2.jpg"
+      ]
+  },
+  {
+      "id": 5,
+      "title": "Sid Meier's Civilization VI",
+      "description": "Un juego de estrategia por turnos donde construyes y gestionas un imperio desde la antigüedad hasta el futuro.",
+      "code": "GAME005",
+      "price": 50,
+      "stock": 30,
+      "category": "Estrategia",
+      "status": true,
+      "thumbnails": [
+          "civ_6_1.jpg",
+          "civ_6_2.jpg"
+      ]
+  },
+  {
+      "id": 6,
+      "title": "Age of Empires IV",
+      "description": "Un juego de estrategia en tiempo real que te permite construir imperios a lo largo de la historia.",
+      "code": "GAME006",
+      "price": 55,
+      "stock": 22,
+      "category": "Estrategia",
+      "status": true,
+      "thumbnails": [
+          "age_of_empires_4_1.jpg",
+          "age_of_empires_4_2.jpg"
+      ]
+  }
+]
